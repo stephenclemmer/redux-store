@@ -1,23 +1,24 @@
-'use strict';
+// import "./App.css";
+import Header from "./Components/Header";
+import Products from "./Components/Products";
+import Card from "./Components/Card/index.js";
+import Container from '@mui/material/Container';
+import Grid from '@mui/material/Grid';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Container>
+      {/* <Header /> */}
+      <Grid container spacing={5}>
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </Grid>
+      {/* <Products /> */}
+    </Container>
+    </>
   );
 }
 
