@@ -6,6 +6,7 @@ import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import SearchAppBar from "./Components/Appbar";
 // import MenuBar from "./Components/MenuBar";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <SearchAppBar sx={{marginY: 5}}/>
       {/* <MenuBar /> */}
       {/* <Container>
-      
+
       </Container> */}
       <Container>
         {/* <Header /> */}
@@ -25,6 +26,7 @@ function App() {
         </Grid>
         {/* <Products /> */}
       </Container>
+      <Footer />
     </>
   );
 }
