@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <Container>
-      {/* <Header /> */}
+      <Header />
       <Grid container spacing={5}>
         <Card />
         <Card />
