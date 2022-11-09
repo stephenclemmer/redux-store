@@ -1,30 +1,30 @@
-// import "./App.css";
-import Header from "./Components/Header";
-import Products from "./Components/Products";
+import "./App.css";
+import Header from "./Holding/Header";
+import Products from "./products";
 import Card from "./Components/Card/index.js";
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
-import SearchAppBar from "./Components/Appbar";
-// import MenuBar from "./Components/MenuBar";
+import SearchAppBar from "./Components/AppBar/Appbar";
+import MenuBar from "./Components/MenuBar";
 import Footer from "./Components/Footer";
+// import Typography from '@mui/material/Typography';
+import TitleCard from "./Components/TitleCard";
 
 function App() {
   return (
     <>
-      <SearchAppBar sx={{marginY: 5}}/>
-      {/* <MenuBar /> */}
-      {/* <Container>
-
-      </Container> */}
+      <SearchAppBar sx={{ marginY: 5 }} />
+      <MenuBar>
+      </MenuBar>
+      <TitleCard>
+      </TitleCard>
       <Container>
-        {/* <Header /> */}
         <Grid container spacing={5}>
           <Card />
           <Card />
           <Card />
           <Card />
         </Grid>
-        {/* <Products /> */}
       </Container>
       <Footer />
     </>

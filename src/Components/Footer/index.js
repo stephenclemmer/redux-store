@@ -9,7 +9,7 @@ export default function Footer() {
       <Container>
         <Grid container spacing={2}>
           <Grid item xs={12}>
-            <Grid container justifyContent="center" spacing={2}>
+            <Grid container justifyContent="right" spacing={2}>
               {[0].map((value) => (
                 <Grid key={value} item>
                   <Typography>
