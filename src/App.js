@@ -4,7 +4,7 @@ import Products from "./products";
 import Card from "./Components/Card/index.js";
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
-import SearchAppBar from "./Components/AppBar/Appbar";
+import SearchAppBar from "./Components/AppBar";
 import MenuBar from "./Components/MenuBar";
 import Footer from "./Components/Footer";
 // import Typography from '@mui/material/Typography';

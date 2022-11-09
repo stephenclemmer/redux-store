@@ -1,0 +1,194 @@
+[ "Electronics",
+  {
+    "id": 1,
+    "name": "Commodore 64",
+    "description": "The Commodore 64, also known as the C64, C-64, C=64, or occasionally CBM64 or VIC-64, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. The C64's successor, the Commodore 128, was released in 1985.",
+    "reviews": [
+      {
+        "id": 1,
+        "title": "The best computer ever",
+        "body": "I love this computer so much. It's the best computer ever made.",
+        "rating": 5,
+        "user": {
+          "id": 1,
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 2,
+        "title": "The worst computer ever",
+        "body": "I hate this computer so much. It's the worst computer ever made.",
+        "rating": 1,
+        "user": {
+          "id": 2,
+          "name": "Jane Doe"
+        }
+      }
+    ],
+    "reviewNumber": 2,
+    "price": 139.00,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Commodore_64_-_Computer_(C64).jpg/220px-Commodore_64_-_Computer_(C64).jpg",
+    "stars": 4.5,
+    "category": "Electronics"
+  },
+  {
+    "Id": 2,
+    "name": "Apple II",
+    "description": "The Apple II series is a family of 8-bit home computers designed, manufactured, and sold by Apple Computer from 1977 to 1993. It started with the Apple II, one of the first highly successful mass-produced microcomputer products, which was introduced in 1977. The Apple II family was designed to be expandable, allowing customers to add peripheral cards to the motherboard to provide additional functionality. The Apple II series is credited with popularizing the mouse-driven GUI (graphical user interface) in a mass-market machine. The Apple II was one of the first highly successful mass-produced microcomputer products, with its first version selling 100,000 units in its first year on the market.",
+    "reviews": [
+      {
+        "id": 3,
+        "title": "The best computer ever",
+        "body": "I love this computer so much. It's the best computer ever made.",
+        "rating": 5,
+        "user": {
+          "id": 1,
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 4,
+        "title": "The worst computer ever",
+        "body": "I hate this computer so much. It's the worst computer ever made.",
+        "rating": 1,
+        "user": {
+          "id": 2,
+          "name": "Jane Doe"
+        }
+      }
+    ],
+    "reviewNumber": 2,
+    "price": 179.00,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Apple_II_Plus.jpg/220px-Apple_II_Plus.jpg",
+    "stars": 4.5,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Atari 2600",
+    "description": "The Atari 2600, also known by its codename Atari Video Computer System (Atari VCS) or informally as the Atari 2600 Video Computer System (VCS) or Atari VCS 2600, is a home video game console developed and manufactured by Atari, Inc. It was released in September 1977 as the Atari 2600 VCS, and it is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code, a format first used with the Fairchild Channel F in 1976. The console was later renamed simply Atari 2600 in 1982. The system's primary controller, the joystick, was initially packaged with two buttons, one marked \"fire\" and the other marked \"reset\". The \"fire\" button was used to play most games, while the \"reset\" button was used to reset the game in the event of a player's death or to reset the console itself. The 2600's game library consists of more than 1,000 games, which were released on ROM cartridges. The console was sold until 1992, when it was discontinued in North America and Europe. It was discontinued in Japan in 1993.",
+    "reviews": [
+      {
+        "id": 5,
+        "title": "The best computer ever",
+        "body": "I love this computer so much. It's the best computer ever made.",
+        "rating": 5,
+        "user": {
+          "id": 1,
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 6,
+        "title": "The worst computer ever",
+        "body": "I hate this computer so much. It's the worst computer ever made.",
+        "rating": 1,
+        "user": {
+          "id": 2,
+          "name": "Jane Doe"
+        }
+      }
+    ],
+    "reviewNumber": 2,
+    "price": 99.00,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Atari_2600.jpg/220px-Atari_2600.jpg",
+    "stars": 4.5,
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "ZX Spectrum",
+    "description": "The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research. It was one of the world's first highly affordable mass-produced home computers, selling in excess of 5 million units worldwide. The Spectrum was the first computer to popularise the use of colour and sound in home computer games, and was the first to feature a built-in keyboard. It was also the first to feature a built-in tape recorder for loading and saving data. The Spectrum was designed by Richard Altwasser, Chris Curry, and Mike Jenkins, and was manufactured by Amstrad. The Spectrum was launched in the UK in 1982, and was released in Spain, France, Germany, and the Netherlands in 1983. It was released in the United States in 1985 as the ZX Spectrum 16K, and in Australia in 1986 as the ZX Spectrum 48K. The Spectrum was the first computer to popularise the use of colour and sound in home computer games, and was the first to feature a built-in keyboard. It was also the first to feature a built-in tape recorder for loading and saving data. The Spectrum was designed by Richard Altwasser, Chris Curry, and Mike Jenkins, and was manufactured by Amstrad. The Spectrum was launched in the UK in 1982, and was released in Spain, France, Germany, and the Netherlands in 1983. It was released in the United States in 1985 as the ZX Spectrum 16K, and in Australia in 1986 as the ZX Spectrum 48K.",
+    "reviews": [
+      {
+        "id": 7,
+        "title": "The best computer ever",
+        "body": "I love this computer so much. It's the best computer ever made.",
+        "rating": 5,
+        "user": {
+          "id": 1,
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 8,
+        "title": "The worst computer ever",
+        "body": "I hate this computer so much. It's the worst computer ever made.",
+        "rating": 1,
+        "user": {
+          "id": 2,
+          "name": "Jane Doe"
+        }
+      }
+    ],
+    "reviewNumber": 2,
+    "price": 189.00,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ZX_Spectrum_48k.jpg/220px-ZX_Spectrum_48k.jpg",
+    "stars": 4.5,
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Amiga 500",
+    "description": "The Amiga 500 is an 8-bit home computer introduced by Commodore International in 1987. It has a 68000 CPU running at 7.14 MHz, 512 KiB of Chip RAM, 512 KiB of Slow RAM, and an optional 1 MiB Fast RAM expansion board. The Amiga 500 was the first low-cost mass-produced home computer to include a color display and a built-in mouse. It was also the first home computer to ship with a bitmapped color GUI. The Amiga 500 was released in July 1987, and was sold until 1991. It was replaced by the Amiga 2000 in 1992. The Amiga 500 was the first low-cost mass-produced home computer to include a color display and a built-in mouse. It was also the first home computer to ship with a bitmapped color GUI. The Amiga 500 was released in July 1987, and was sold until 1991. It was replaced by the Amiga 2000 in 1992.",
+    "reviews": [
+      {
+        "id": 9,
+        "title": "The best computer ever",
+        "body": "I love this computer so much. It's the best computer ever made.",
+        "rating": 5,
+        "user": {
+          "id": 1,
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 10,
+        "title": "The worst computer ever",
+        "body": "I hate this computer so much. It's the worst computer ever made.",
+        "rating": 1,
+        "user": {
+          "id": 2,
+          "name": "Jane Doe"
+        }
+      }
+    ],
+    "reviewNumber": 2,
+    "price": 299.00,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amiga_500.jpg/220px-Amiga_500.jpg",
+    "stars": 4.5,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Commodore 64",
+    "description": "The Commodore 64, also known as the C64, C-64, C=64, or occasionally CBM64 or VIC-64 in the UK, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. The C64 dominated the low-end computer market for most of the 1980s. The C64 was one of the first home computers to have a built-in BASIC interpreter. It was also one of the first to use a custom chip, the MOS Technology 6510, designed for the machine. The C64 was one of the first home computers to have a built-in BASIC interpreter. It was also one of the first to use a custom chip, the MOS Technology 6510, designed for the machine.",
+    "reviews": [
+      {
+        "id": 11,
+        "title": "The best computer ever",
+        "body": "I love this computer so much. It's the best computer ever made.",
+        "rating": 5,
+        "user": {
+          "id": 1,
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 12,
+        "title": "The worst computer ever",
+        "body": "I hate this computer so much. It's the worst computer ever made.",
+        "rating": 1,
+        "user": {
+          "id": 2,
+          "name": "Jane Doe"
+        }
+      }
+    ],
+    "reviewNumber": 2,
+    "price": 139.00,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Commodore_64_-_Computer_(C64).jpg/220px-Commodore_64_-_Computer_(C64).jpg",
+    "stars": 4.5,
+    "category": "Electronics"
+  }
+]

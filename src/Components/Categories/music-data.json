@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Auturia Matrix Brute",
+    "description": "The MatrixBrute is a 100% analog, 100% digital, 100% awesome synthesizer. It is a 4-voice, 2-part, 2-oscillator, 2-filter, 2-LFO, 2-EG, 2-ADSR, 2-AD, 2-sequencer, 2-voice polyphonic, 2-voice paraphonic, 2-voice unison, 2-voice duophonic, 2-voice monophonic, 2-voice paraphonic",
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Auturia Matrix Brute",
+        "description": "The MatrixBrute is a 100% analog, 100% digital, 100% awesome synthesizer",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "title": "Auturia Matrix Brute",
+        "description": "The MatrixBrute is a 100% analog, 100% digital, 100% awesome synthesizer",
+        "rating": 5
+      }
+    ],
+      "reviewNumber": 2,
+      "price": 2899.00,
+      "image": "https://cdn.shopify.com/s/files/1/0010/0001/0001/products/MatrixBrute_1024x1024.jpg?v=1522312018",
+      "stars": 4.5,
+      "category": "Instruments"
+    },
+    {
+      "id": 2,
+      "name": "Nord Stage 3",
+      "description": "The Nord Stage 3 is a 88-key, 3-part, 3-oscillator, 3-filter, 3-LFO, 3-EG, 3-ADSR, 3-AD, 3-sequencer, 3-voice polyphonic, 3-voice paraphonic, 3-voice unison, 3-voice duophonic, 3-voice monophonic, 3-voice paraphonic",
+      "reviews": [
+        {
+          "id": 3,
+          "title": "Nord Stage 3",
+          "description": "The Nord Stage 3 is a 88-key, 3-part, 3-oscillator, 3-filter, 3-LFO, 3-EG, 3-ADSR, 3-AD, 3-sequencer, 3-voice polyphonic, 3-voice paraphonic, 3-voice unison, 3-voice duophonic, 3-voice monophonic, 3-voice paraphonic",
+          "rating": 5
+        },
+        {
+          "id": 4,
+          "title": "Nord Stage 3",
+          "description": "The Nord Stage 3 is a 88-key, 3-part, 3-oscillator, 3-filter, 3-LFO, 3-EG, 3-ADSR, 3-AD, 3-sequencer, 3-voice polyphonic, 3-voice paraphonic, 3-voice unison, 3-voice duophonic, 3-voice monophonic, 3-voice paraphonic",
+          "rating": 5
+        }
+      ],
+      "reviewNumber": 2,
+      "price": 2899.00,
+      "image": "https://i.ebayimg.com/images/g/0ZgAAOSwLEJeUobf/s-l640.jpg",
+      "stars": 4.5,
+      "category": "Instruments" 
+    },
+    {
+      "id": 3,
+      "name": "Casio CTK-3500",
+      "description": "The casio CTK-3500 is a 88-key, 3-part, 3-oscillator, 3-filter, 3-LFO, 3-EG, 3-ADSR, 3-AD, 3-sequencer, 3-voice polyphonic, 3-voice paraphonic, 3-voice unison, 3-voice duophonic, 3-voice monophonic, 3-voice paraphonic",
+      "reviews": [
+        {
+          "id": 5,
+          "title": "Casio CTK-3500",
+          "description": "The casio CTK-3500 is a 88-key, 3-part, 3-oscillator, 3-filter, 3-LFO, 3-EG, 3-ADSR, 3-AD, 3-sequencer, 3-voice polyphonic, 3-voice paraphonic, 3-voice unison, 3-voice duophonic, 3-voice monophonic, 3-voice paraphonic",
+          "rating": 5
+        },
+        {
+          "id": 6,
+          "title": "Casio CTK-3500",
+          "description": "The casio CTK-3500 is a 88-key, 3-part, 3-oscillator, 3-filter, 3-LFO, 3-EG, 3-ADSR, 3-AD, 3-sequencer, 3-voice polyphonic, 3-voice paraphonic, 3-voice unison, 3-voice duophonic, 3-voice monophonic, 3-voice paraphonic",
+          "rating": 5
+        }
+      ],
+      "reviewNumber": 2,
+      "price": 2899.00,
+      "image": "https://media.casioindiashop.com/assets/products-images/enlarge-image/KS40A.webp",
+      "stars": 4.5,
+      "category": "Instruments"
+    }
+  ]

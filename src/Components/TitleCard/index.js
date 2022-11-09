@@ -10,7 +10,7 @@ const TitleCard = () => {
     }}>
       <Grid>
         <Typography variant="h2" component="h2" align='center'>
-          Vintage Computers
+          Vintage Electronics
         </Typography>
         <Typography variant="h6" component="h2" align='center'>
           Yesterday's Tomorrow is Tomorrow's Yesterday
